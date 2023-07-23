@@ -15,11 +15,3 @@ A back end only for shopping using dotenv, express, mysql2, and sequelize.
 
 link to demo video
 https://drive.google.com/file/d/1awqlSfgVv72unxeHyl-CU0m5VxlLWrCd/view
-
- ## Questions? Contact me
-
-  - Menkoi
-
-  - https://github.com/Menkoi
-
-  - celaeon@gmail.com
